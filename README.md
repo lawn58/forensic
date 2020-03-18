@@ -1,6 +1,6 @@
 # forensic
 
- Links:
+ Links practice:
 
  	volatility
 							https://github.com/volatilityfoundation/volatility/wiki/Memory-Samples
@@ -22,6 +22,8 @@
 							https://www.dfir.training/resources/downloads/ctf-forensic-test-images/more-images
 							
 	
+Links for utilits:	
+				
 	Data recovery:
 	
 	Linux:
