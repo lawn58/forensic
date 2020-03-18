@@ -18,3 +18,6 @@
 
  	other
 							https://digital-forensics.sans.org/community/cheat-sheets    cheat-sheets
+							https://github.com/Cugu/awesome-forensics
+							https://www.dfir.training/resources/downloads/ctf-forensic-test-images/more-images
+							
