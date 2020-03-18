@@ -21,3 +21,15 @@
 							https://github.com/Cugu/awesome-forensics
 							https://www.dfir.training/resources/downloads/ctf-forensic-test-images/more-images
 							
+	
+	Data recovery:
+	
+	Linux:
+	
+							Sleuthkit www.sleuthkit.org/sleuthkit/
+							Linux Recovery www.diskinternals.com/linux-recovery/
+							R-Studio www.data-recovery-software.net/ 
+							Foremost http://foremost.sourceforge.net/
+ 							Scalpel www.digitalforensicssolutions.com/Scalpel/ 
+	Windows:
+							
